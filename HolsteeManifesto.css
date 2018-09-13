@@ -1,0 +1,138 @@
+#wrapper-container{
+	border: 10px solid #5e6472;
+	width: 340px;
+	height: 850px;
+}
+
+
+#div-top-left {
+	background: AntiqueWhite;
+	border-width: 1px
+	border-style: dotted;
+	float:left;
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 14px;
+	height: 150px;
+	padding: 10px;
+	text-align: center;
+	width: 150px;
+
+}
+
+#div-top-right {
+	background: dodgerblue;
+	float:left;
+	font-family: arial;
+	height: 150px;
+	padding: 10px;
+	text-align: center;
+	width: 150px;
+
+}
+
+
+#div-middle-left {
+	background: mediumseagreen;
+	clear: both;
+	float:left;
+	font-family: 'Anton', sans-serif;
+	font-size: 20px;
+	height: 150px;
+	padding: 10px;
+	text-align: center;
+	width: 150px;
+
+
+}
+
+
+#div-middle-right {
+	background: violet;
+	float:left;
+	font-family: arial;
+	height: 150px;
+	padding: 10px;
+	text-align: center;
+	width: 150px;
+
+}
+
+#div-third-left {
+	background: slateblue;
+	clear: both;
+	float:left;
+	font-family: 'Dancing Script', cursive;
+	height: 150px;
+	padding: 10px;
+	text-align: center;
+	width: 150px;
+	
+
+}
+
+
+#div-third-right {
+	background: tomato;
+	float:left;
+	font-family: arial;
+	height: 150px;
+	padding: 10px;
+	text-align: center;
+	width: 150px;
+
+}
+
+#div-four-left {
+	background: antiquewhite;
+	clear: both;
+	float:left;
+	font-family: 'Pacifico', cursive;
+	height: 150px;
+	padding: 10px;
+	text-align: center;
+	width: 150px;
+	
+
+}
+
+#div-four-right {
+	background: powderblue;
+	float:left;
+	font-family: georgia;
+	height: 150px;
+	padding: 10px;
+	text-align: center;
+	width: 150px;
+	
+
+}
+
+#div-five-left {
+	background: sandybrown;
+	clear: both;
+	float:left;
+	font-family: courier;
+	font-size: 14px;
+	height: 150px;
+	padding: 10px;
+	text-align: center;
+	width: 150px;
+	
+
+}
+
+#div-five-right {
+	background: goldenrod;
+	float:left;
+	font-family: 'Jua', sans-serif;
+	height: 150px;
+	padding: 10px;
+	text-align: center;
+	width: 150px;
+
+}
+
+.spantext {
+	text-transform: uppercase;
+
+}
